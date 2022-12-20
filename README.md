@@ -69,10 +69,10 @@ Check that the graph specified by the K-list is connected.
 # Lab12_grammars-generation
 Theory of grammars and formal languages.
 
-Grammar generates a sequence of relations of form
-- <variable> <relation operation> <number>
+Grammar generates a sequence of relations of form:
+   <variable> <relation operation> <number>
 
-where 
+where:
 - <variable> consists of letters and has an arbitrary length,
 - <relationship operation>: <<=>> = <> =
 - <number> - an integer without a sign of arbitrary length.
