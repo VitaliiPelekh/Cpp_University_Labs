@@ -78,7 +78,3 @@ where:
 - \<number\> - an integer without a sign of arbitrary length.
 
 The relations are separated from each other by commas, the comma cannot be after the last in the sequence of relations.
-
-
-# Lab13_number-transfer
-Transfer numbers from one number system to another.
