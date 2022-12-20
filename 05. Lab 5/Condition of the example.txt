@@ -1,0 +1,11 @@
+Describe a structure named "MARSHRUT" containing the following fields:
+	"Name of departure point of the route";
+	"Name of destination route";
+	"Route number".
+
+Write a program to implement the following actions:
+	Data entry into the array of structures such as "MARSHRUT" and sorting records by increasing the route number;
+	Output of information about the route, the number of which is set by the user;
+	Output of information about routes that start or end at the point named by the user;
+
+If there are no such routes, display the corresponding message.

@@ -1,0 +1,5 @@
+The file containing phone numbers of employees of the organization is specified: 
+	the surname and initials, 
+	phone number are specified. 
+
+Find the phone number of the employee by his last name and initials.
