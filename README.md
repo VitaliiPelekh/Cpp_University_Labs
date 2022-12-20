@@ -70,12 +70,12 @@ Check that the graph specified by the K-list is connected.
 Theory of grammars and formal languages.
 
 Grammar generates a sequence of relations of form:
-   <variable> <relation operation> <number>
+- \<variable\> \<relation operation\> \<number\>
 
 where:
-- <variable> consists of letters and has an arbitrary length,
-- <relationship operation>: <<=>> = <> =
-- <number> - an integer without a sign of arbitrary length.
+- \<variable\> consists of letters and has an arbitrary length,
+- \<relationship operation\>: \<\<\=\>\> \= \<\> \=
+- \<number\> - an integer without a sign of arbitrary length.
 
 The relations are separated from each other by commas, the comma cannot be after the last in the sequence of relations.
 
